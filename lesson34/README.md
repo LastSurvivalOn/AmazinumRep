@@ -12,6 +12,8 @@
 ```bash
 pip install -r requirements.txt
 ```
+##### Also to use it, enter your token in token variable
+
 ## Modeling info
 ###### Gemma is a family of lightweight, state-of-the-art open models from Google, built from the same research and technology used to create the Gemini models. They are text-to-text, decoder-only large language models, available in English, with open weights, pre-trained variants, and instruction-tuned variants.
 
