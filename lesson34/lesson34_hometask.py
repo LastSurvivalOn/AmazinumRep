@@ -6,7 +6,7 @@
 
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-token="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"
+token="..."
 custom_cache_dir = "D:/gemini_model/"
 
 tokenizer = AutoTokenizer.from_pretrained("google/gemma-2b", token=token)
